@@ -1,0 +1,5 @@
+[2020-04-25 12:51:18.024] [ERROR] console - (node:37780) DeprecationWarning: current URL string parser is deprecated, and will be removed in a future version. To use the new parser, pass option { useNewUrlParser: true } to MongoClient.connect.
+[2020-04-25 12:51:18.027] [ERROR] console - (node:37780) DeprecationWarning: current Server Discovery and Monitoring engine is deprecated, and will be removed in a future version. To use the new Server Discover and Monitoring engine, pass option { useUnifiedTopology: true } to the MongoClient constructor.
+[2020-04-25 12:51:18.078] [ERROR] console - (node:37780) DeprecationWarning: collection.ensureIndex is deprecated. Use createIndexes instead.
+[2020-04-25 12:51:24.257] [ERROR] console - (node:37780) DeprecationWarning: collection.update is deprecated. Use updateOne, updateMany, or bulkWrite instead.
+[2020-04-25 12:51:26.735] [ERROR] console - (node:37780) DeprecationWarning: collection.count is deprecated, and will be removed in a future version. Use Collection.countDocuments or Collection.estimatedDocumentCount instead

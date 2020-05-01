@@ -1,0 +1,6 @@
+[2020-04-19 00:14:50.544] [INFO] access - GET /frontend/chang-yong-de-9-ge-javascript-fang-fa
+[2020-04-19 00:14:50.581] [WARN] access - GET /themes/default/assets/css/bootstrap.min.css
+[2020-04-19 00:14:50.599] [WARN] access - GET /themes/default/assets/css/main.css
+[2020-04-19 00:14:50.601] [WARN] access - GET /themes/default/assets/js/jquery-2.2.1.min.js
+[2020-04-19 00:14:50.602] [WARN] access - GET /themes/default/assets/js/bootstrap.min.js
+[2020-04-19 00:14:50.602] [WARN] access - GET /themes/default/assets/img/logo.png
