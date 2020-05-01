@@ -1,0 +1,6 @@
+[2020-05-01 21:24:57.731] [ERROR] access - GET /api/dashboard
+[2020-05-01 21:24:57.749] [ERROR] access - PUT /api/statistics
+[2020-05-01 21:24:57.750] [ERROR] access - GET /api/account
+[2020-05-01 21:24:57.751] [ERROR] access - GET /api/categories
+[2020-05-01 21:24:57.752] [ERROR] access - GET /api/account
+[2020-05-01 21:40:33.129] [ERROR] console - (node:49792) DeprecationWarning: `open()` is deprecated in mongoose >= 4.11.0, use `openUri()` instead, or set the `useMongoClient` option if using `connect()` or `createConnection()`. See http://mongoosejs.com/docs/connections.html#use-mongo-client
